@@ -20,9 +20,9 @@
   <a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a>
   <a href="#"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
   <a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="#"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
