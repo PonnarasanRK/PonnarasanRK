@@ -49,15 +49,18 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ponnarasanrk/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" style="margin-right: 20px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ponnarasanraj00@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" style="margin-right: 20px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/PonnarasanRK" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40" width="40" style="margin-right: 20px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40" width="40" />
   </a>
 </p>
+
 
 
 ---
