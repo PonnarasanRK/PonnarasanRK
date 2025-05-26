@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ponnarasan R K</h1>
 <h3 align="center">A passionate Web Developer & AI enthusiast from Chennai, India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PonnarasanRK&label=Profile%20views&color=0e75b6&style=flat" alt="ponnarasanrk" />
-</p>
-
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 🔭 I’m currently working on **TravelKeet** – a platform to book caravans, hotels, and travel packages  
@@ -60,4 +56,6 @@
 ### 🚀 Let’s Collaborate!
 📢 I'm open to **internships, freelance work, or full-time roles** in web development, AI, or anything tech-forward. Let’s build something amazing together!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PonnarasanRK&label=Profile%20views&color=0e75b6&style=flat" alt="ponnarasanrk" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PonnarasanRK&label=Profile%20views&color=0e75b6&style=flat" alt="ponnarasanrk" />
+</p>
