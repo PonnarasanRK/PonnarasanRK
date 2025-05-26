@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ponnarasan R K</h1>
 <h3 align="center">A passionate Web Developer & AI enthusiast from Chennai, India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 🔭 I’m currently working on **TravelKeet** – a platform to book caravans, hotels, and travel packages  
 - 🌱 I’m learning **full-stack development** with Django & React  
@@ -45,13 +45,20 @@
 
 ---
 
-### 📬 Connect with me:
+<h3 align="left">📬 Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ponnarasanrk/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:ponnarasanraj00@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" /></a>
-  <a href="https://github.com/PonnarasanRK" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="github" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/ponnarasanrk/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" style="margin-right: 20px;" />
+  </a>
+  <a href="mailto:ponnarasanraj00@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" style="margin-right: 20px;" />
+  </a>
+  <a href="https://github.com/PonnarasanRK" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40" width="40" style="margin-right: 20px;" />
+  </a>
 </p>
+
 
 ---
 
